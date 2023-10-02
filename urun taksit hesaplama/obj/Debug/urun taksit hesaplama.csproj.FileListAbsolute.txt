@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\urun taksit hesaplama\urun taksit hesaplama\bin\Debug\urun taksit hesaplama.dll
+C:\Users\User\source\repos\urun taksit hesaplama\urun taksit hesaplama\bin\Debug\urun taksit hesaplama.pdb
+C:\Users\User\source\repos\urun taksit hesaplama\urun taksit hesaplama\obj\Debug\urun taksit hesaplama.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\urun taksit hesaplama\urun taksit hesaplama\obj\Debug\urun_taksit_hesaplama.UserControl1.resources
+C:\Users\User\source\repos\urun taksit hesaplama\urun taksit hesaplama\obj\Debug\urun taksit hesaplama.csproj.GenerateResource.cache
+C:\Users\User\source\repos\urun taksit hesaplama\urun taksit hesaplama\obj\Debug\urun taksit hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\urun taksit hesaplama\urun taksit hesaplama\obj\Debug\urun taksit hesaplama.dll
+C:\Users\User\source\repos\urun taksit hesaplama\urun taksit hesaplama\obj\Debug\urun taksit hesaplama.pdb
